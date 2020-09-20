@@ -1,9 +1,9 @@
 <?php 
     class Database {
-        private $host = "127.0.0.1";
-        private $database_name = "phpapidb";
-        private $username = "root";
-        private $password = "eP#A2PMsY^a4";
+        private $host = "den1.mysql5.gear.host";
+        private $database_name = "skoderapi";
+        private $username = "skoderapi";
+        private $password = "Ww1VWu-Q8?0V";
 
         public $conn;
 
